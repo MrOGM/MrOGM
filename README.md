@@ -28,10 +28,10 @@ My name is Oscar Garcia. I study :pencil2: Engineering in mechatronics with the 
 
 
    BACKEND    <img align="right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MrOGM&layout=compact&theme=radical">    <br><br> 
-   ![My Skills](https://skillicons.dev/icons?i=javascript,nodejs)
+   ![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,python,flask,cpp)
    
    DATABASES  <br><br>
-    ![My Skills](https://skillicons.dev/icons?i=mongodb)
+    ![My Skills](https://skillicons.dev/icons?i=mongodb,firebase)
 
    TOOLS  <br><br>
    ![My Skills](https://skillicons.dev/icons?i=git,postman)
