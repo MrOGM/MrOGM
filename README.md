@@ -1,5 +1,7 @@
-### Hi there 👋
 
+
+<img src="https://github.com/MrOGM/MrOGM/blob/main/The%20Perfect.png" alt="Banner-dark-mode" style="max-width: 100%; height: 20%;">
+### Hi there 👋
 <!--
 **MrOGM/MrOGM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
