@@ -6,7 +6,7 @@
 
 ## Let me present myself
 
-My name is Oscar Garcia. I study :pencil2: Engineering in mechatronics with the purpose of deciding which area of engineering is the most interesting for me. As you can see, programming has captured my heart :cupid:, with the occasional side effect of stressing my mind :exploding_head:.
+My name is Oscar Garcia. I studied :pencil2: Engineering in mechatronics with the purpose of deciding which area of engineering is the most interesting for me. As you can see, programming has captured my heart :cupid:, with the occasional side effect of stressing my mind :exploding_head:.
 <br>
 <br>
 <div style="margin-left: 20px;">
